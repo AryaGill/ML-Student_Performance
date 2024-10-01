@@ -83,6 +83,9 @@ This project demonstrates the effectiveness of XGBoost in improving the accuracy
 ### References
 
 [1] "Using data mining to predict secondary school student performance." Available: https://www.semanticscholar.org/paper/61d468d5254730bbecf822c6b60d7d6595d9889c
+
 [2] NVIDIA, "XGBoost," Available: https://www.nvidia.com/en-us/glossary/xgboost/
+
 [3] UCI Machine Learning Repository, "Student Performance," Available: https://archive.ics.uci.edu/dataset/320/student+performance
+
 
